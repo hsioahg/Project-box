@@ -1,0 +1,1 @@
+export default ['/home/article','/home/adminhome']

@@ -1,0 +1,34 @@
+{
+  "name": "project-blog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@wangeditor/editor": "^5.1.14",
+    "@wangeditor/editor-for-vue": "^1.0.2",
+    "axios": "^0.27.2",
+    "core-js": "^3.24.1",
+    "element-ui": "^2.15.9",
+    "particles.js": "^2.0.0",
+    "vue": "^2.7.8",
+    "vue-router": "^3.5.4",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.19",
+    "@vue/cli-plugin-router": "^4.5.19",
+    "@vue/cli-plugin-vuex": "^4.5.19",
+    "@vue/cli-service": "^4.5.19",
+    "less": "^3.13.1",
+    "less-loader": "^5.0.0",
+    "vue-template-compiler": "^2.7.8"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
