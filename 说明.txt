@@ -1,0 +1,12 @@
+多人博客前端：project-blog
+宿舍管理系统前端：project-erp
+
+后端（两个项目共用）：system-server
+SQL文件：student_system.sql
+
+
+由于多人博客的前端样式不太好看，所以近期对其进行了重构！
+多人博客重构版：NewProject-blog
+	前端：project-box
+	后端：project-server
+	SQL文件：projectbox.sql
