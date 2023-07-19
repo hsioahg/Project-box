@@ -1,0 +1,38 @@
+[
+  {
+    "path": "/index",
+    "label": "首页",
+    "icon": "el-icon-s-home"
+  },
+  {
+    "path": "/user",
+    "label": "房间管理",
+    "icon": "el-icon-s-order",
+    "children": [
+      {
+        "path": "/user/page1",
+        "label": "一楼"
+      },
+      {
+        "path": "/user/page2",
+        "label": "二楼"
+      },
+      {
+        "path": "/user/page3",
+        "label": "三楼"
+      },
+      {
+        "path": "/user/page4",
+        "label": "四楼"
+      },
+      {
+        "path": "/user/page5",
+        "label": "五楼"
+      },
+      {
+        "path": "/user/page6",
+        "label": "六楼"
+      }
+    ]
+  }
+]
