@@ -5,7 +5,7 @@
 SQL文件：student_system.sql
 
 
-由于多人博客的前端样式不太好看，所以近期对其进行了重构！
+由于多人博客的前端样式不太好看，所以近期对其进行了重构！（由于时间问题，只重构了一半）
 多人博客重构版：NewProject-blog
 	前端：project-box
 	后端：project-server
